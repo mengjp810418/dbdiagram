@@ -2,7 +2,14 @@
 
 An Open-Source dbdiagram.io
 
-## Install the dependencies
+## Install the yarn(1.22.X) at windows10 or windows11 by npm, and add to user’s environment variable PATH like %LOCALAPPDATA%\yarn\bin
+## detail for https://yarnpkg.com/getting-started/install
+```cmd
+npm install -g yarn
+```
+
+
+### Install the dependencies
 ```bash
 yarn
 ```
