@@ -32,7 +32,7 @@ quasar build
 
 ### entery the builded path like dist/spa, and start the service for production
 ```bash
-quasar serve
+quasar serve --history --open
 ```
 
 ### Customize the configuration
